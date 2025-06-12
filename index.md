@@ -1,4 +1,3 @@
-
 <!-- Styling untuk memperlebar konten dan menata navigasi -->
 <style>
 /* Perlebar konten utama */
@@ -43,7 +42,6 @@ h2 {
 <nav>
   <ul>
     <li><a href="#about-me">About Me</a></li>
-    <li><a href="#education">Education</a></li>
     <li><a href="#projects">Projects and Publications</a></li>
     <li><a href="#experiences">Experiences</a></li>
   </ul>
@@ -53,13 +51,6 @@ h2 {
 <section id="about-me">
   ## About Me
   Halo! Saya adalah seorang mahasiswa FMIPA Universitas Indonesia dengan ketertarikan di bidang pengembangan perangkat lunak dan teknologi. Saya suka belajar hal baru, ngoding, dan berkontribusi di proyek terbuka.
-</section>
-
-<section id="education">
-  ## Education
-  - **Universitas Indonesia** – S1 Ilmu Komputer (2021–sekarang)  
-    Fokus pada pengembangan perangkat lunak, data science, dan kecerdasan buatan.
-  - **SMAN 1 [Kota Anda]** – IPA (2018–2021)
 </section>
 
 <section id="projects">
