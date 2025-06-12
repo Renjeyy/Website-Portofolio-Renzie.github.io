@@ -50,7 +50,7 @@ h2 {
 <!-- Bagian konten -->
 <section id="about-me">
   ##About Me
-  *Summary*
+  **Summary**
   
   I am an undergraduate student at Universitas Indonesia, majoring at mathematics and specializing in Data Science. My academic journey has allowed me to delve into the intricacies of mathematical modeling, data analysis, and algorithm development. 
 
@@ -58,7 +58,8 @@ I have accumulated hands-on experience with various programming languages and to
 
 My passion lies in exploring innovative solutions that bridge the gap between mathematics and technology within the healthcare sector. I am particularly interested in projects that involve machine learning algorithms for disease prediction, image segmentation in medical imaging, and computational analysis of biological data. I am eager to leverage my skills and knowledge in collaborative environments that aim to advance healthcare technologies and improve patient outcomes.
 
-*Education*
+###My Education
+**Education**
 Tes
 </section>
 
