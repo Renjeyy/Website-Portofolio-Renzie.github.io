@@ -52,7 +52,7 @@ h2 {
   ##About Me
   **Summary**
   
-  I am an undergraduate student at Universitas Indonesia, majoring at mathematics and specializing in Data Science. My academic journey has allowed me to delve into the intricacies of mathematical modeling, data analysis, and algorithm development. 
+I am an undergraduate student at Universitas Indonesia, majoring at mathematics and specializing in Data Science. My academic journey has allowed me to delve into the intricacies of mathematical modeling, data analysis, and algorithm development. 
 
 I have accumulated hands-on experience with various programming languages and tools, including R, Python, SQL, and Excel, which I have used to analyze complex datasets and create predictive models. Through various projects and coursework, I have developed a solid foundation in data manipulation and visualization, enabling me to extract meaningful insights from intricate data structures.
 
