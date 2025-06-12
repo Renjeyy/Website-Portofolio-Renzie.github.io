@@ -50,18 +50,7 @@ h2 {
 <!-- Bagian konten -->
 <section id="about-me">
   ## About Me
-  ### Summary
-  Saya adalah mahasiswa FMIPA Universitas Indonesia dengan ketertarikan di bidang pengembangan perangkat lunak, machine learning, dan teknologi open source. Saya senang membangun solusi praktis berbasis teknologi dan aktif dalam pengembangan proyek pribadi maupun kolaboratif.
-
-  ### Expertise
-  - Pemrograman: Python, JavaScript, HTML/CSS
-  - Web Development: React, Node.js, Jekyll
-  - Data Science: Pandas, scikit-learn, matplotlib
-  - Tools: Git, VS Code, Figma
-
-  ### Education
-  - **Universitas Indonesia** – S1 Ilmu Komputer (2021–sekarang)  
-    Fokus pada kecerdasan buatan, rekayasa perangkat lunak, dan data mining.
+  I am an undergraduate student at Universitas Indonesia, majoring at mathematics and specializing in Data Science.
 </section>
 
 <section id="projects">
